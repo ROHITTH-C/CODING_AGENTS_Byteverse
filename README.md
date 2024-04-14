@@ -1,2 +1,2 @@
 # CODING_AGENTS_Byteverse
-A website which is made to help animals.
+Our animal rescue project aims to provide a simple and effective solution for reporting and responding to emergencies involving animals. Users can easily upload images and details about animals in distress, allowing rescue teams and volunteers to offer timely assistance. Through community collaboration and technology, we strive to make a positive impact in safeguarding animal welfare.
