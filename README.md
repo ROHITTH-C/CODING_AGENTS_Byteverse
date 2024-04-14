@@ -28,4 +28,4 @@ Animal Avengers is a web platform designed to streamline the process of reportin
 This project is an original creation developed from scratch during the hackathon period. No previous work or adaptations have been incorporated into this project.
 
 Overview Video Link
-[Link to Overview Video](https://www.youtube.com/watch?v=your-video-id)
+https://youtu.be/SZN17KV6xZo
